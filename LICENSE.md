@@ -1,4 +1,4 @@
-
+instant Plugin for Fantastical for macOS - export to PDF and real-time editing is the best Fantastical for macOS plugin, featuring export to PDF and real-time editing. Safe,
 
 
 
